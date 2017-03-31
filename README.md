@@ -1,10 +1,10 @@
-#This code performs de-noising using Markov Random Field
+# This code performs de-noising using Markov Random Field
 
-#Dependencies
+# Dependencies
 
 Python 2.7
 
-#Usage
+# Usage
 
 Run image_denoising.py
 
