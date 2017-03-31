@@ -8,7 +8,9 @@ Python 2.7
 
 Run image_denoising.py
 
+# Results
 
+![](https://github.com/priyankavokuda/image-de-noising/blob/master/image/result.png)
 
 
 
